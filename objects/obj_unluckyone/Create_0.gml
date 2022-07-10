@@ -1,1 +1,1 @@
-hp = 3;
+global.hp = 3;
