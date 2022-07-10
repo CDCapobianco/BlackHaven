@@ -1,16 +1,15 @@
 {
-  "name": "obj_player",
   "spriteId": {
     "name": "player_sprite",
     "path": "sprites/player_sprite/player_sprite.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -33,6 +32,7 @@
     "path": "folders/Oggetti.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_player",
   "tags": [],
   "resourceType": "GMObject",
 }

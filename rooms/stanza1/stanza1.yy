@@ -22,7 +22,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_1F9847E2","path":"rooms/Stanza1/Stanza1.yy",},
+    {"name":"Stanza1","path":"rooms/Stanza1/Stanza1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
