@@ -1,7 +1,7 @@
 var _input = rollback_get_input();
 
 movement_direction = _input.right - _input.left
-
+ssadnoandioa
 
 if(_input.left){
 	x-= 3;
