@@ -1,12 +1,15 @@
 {
   "spriteId": {
-    "name": "sprite_hero_idle",
-    "path": "sprites/sprite_hero_idle/sprite_hero_idle.yy",
+    "name": "sprite_paladin_idle",
+    "path": "sprites/sprite_paladin_idle/sprite_paladin_idle.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprite_paladin_idle",
+    "path": "sprites/sprite_paladin_idle/sprite_paladin_idle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -24,7 +27,6 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

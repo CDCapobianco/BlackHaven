@@ -20,3 +20,4 @@ enum PLAYERSTATE
 }
 
 state = PLAYERSTATE.IDLE
+hitByAttack = ds_list_create()

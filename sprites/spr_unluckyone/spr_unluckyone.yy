@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprite",
-    "path": "folders/Sprite.yy",
+    "name": "Tests",
+    "path": "folders/Sprite/Tests.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_unluckyOne",

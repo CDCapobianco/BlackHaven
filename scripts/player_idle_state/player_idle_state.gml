@@ -27,7 +27,7 @@ if(_input.up){
 if (_input.attack) state=PLAYERSTATE.SLASH
 
 
-sprite_index = (_input.right || _input.left || _input.up || _input.down)  ? sprite_hero_walk : sprite_hero_idle
+sprite_index = (_input.right || _input.left || _input.up || _input.down)  ? sprite_paladin_walk : sprite_paladin_idle
 image_xscale = 2*movement_direction
 show_debug_message(movement_direction)
 
