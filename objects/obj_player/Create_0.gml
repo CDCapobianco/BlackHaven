@@ -14,10 +14,12 @@ if(player_id == 0){
 
 enum PLAYERSTATE
 {
-	IDLE,
-	SLASH
+	LOCOMOTION,
+	ATTACK1,
+	ATTACK2,
+	ATTACK3
 	
 }
 
-state = PLAYERSTATE.IDLE
+state = PLAYERSTATE.LOCOMOTION
 hitByAttack = ds_list_create()
